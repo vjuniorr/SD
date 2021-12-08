@@ -1,0 +1,21 @@
+How much people: 5
+Number of bytes used to store the name: 6
+Person's name: Samuel
+Person's CPF: 12345678
+Person's age: 22
+Number of bytes used to store the name: 5
+Person's name: Pedro
+Person's CPF: 12345678
+Person's age: 42
+Number of bytes used to store the name: 5
+Person's name: Paulo
+Person's CPF: 12345678
+Person's age: 32
+Number of bytes used to store the name: 8
+Person's name: Peçanha
+Person's CPF: 12345678
+Person's age: 52
+Number of bytes used to store the name: 8
+Person's name: Picolino
+Person's CPF: 12345678
+Person's age: 33
